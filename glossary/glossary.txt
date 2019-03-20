@@ -628,3 +628,4 @@ A区	Zone A
 电竞	esports
 解说员	shoutcaster
 护城塔	defense tower
+走位	orbwalk
