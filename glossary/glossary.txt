@@ -630,3 +630,4 @@ A区	Zone A
 护城塔	defense tower
 走位	orbwalk
 殷山以北	North of Yin Mountain
+三千刀斩	Three Thousand Knife Cutting
