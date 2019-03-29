@@ -168,7 +168,6 @@
 万事俱备，只欠东风	to be prepared but lack the crucial element
 不管黑猫白猫，会捉老鼠就是好猫	it does not matter whether a cat is black or white so long as it catches mice
 真金不怕火炼	true blue will never stain
-狗改不了吃屎	the fox may grow grew but never good
 杀手锏	ace in the hole, trump card
 饥不择食	beggars can't be choosers
 对事不对人	it's nothing personal
@@ -631,3 +630,4 @@ A区	Zone A
 走位	orbwalk
 殷山以北	North of Yin Mountain
 三千刀斩	Three Thousand Knife Cutting
+狗改不了吃屎	the fox may grow gray but never good
