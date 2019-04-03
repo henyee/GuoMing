@@ -1,4 +1,4 @@
-好马不吃回头草	a good man doesn't backtrack
+﻿好马不吃回头草	a good man doesn't backtrack
 小菜一碟	a piece of cake
 太阳从西边出来	hell freezes over
 说曹操，曹操到	speak of the devil
@@ -615,8 +615,8 @@ A区	Zone A
 挑了下眉	pricked up
 安影后	Movie Queen An
 赏你一拳消消乐	Awarding You a Slap of Pleasure
-湘南战队	Xiang Nan Team
-湘南	Xiang Nan
+湘南战队	Xiangnan Tteam
+湘南	Xiangnan
 纯色	Pure Color
 阿姨	Auntie
 妈	Mom	Way Fu Jiu call's He Honghua
