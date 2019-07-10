@@ -168,6 +168,7 @@
 万事俱备，只欠东风	to be prepared but lack the crucial element
 不管黑猫白猫，会捉老鼠就是好猫	it does not matter whether a cat is black or white so long as it catches mice
 真金不怕火炼	true blue will never stain
+狗改不了吃屎	the fox may grow grew but never good
 杀手锏	ace in the hole, trump card
 饥不择食	beggars can't be choosers
 对事不对人	it's nothing personal
@@ -511,7 +512,7 @@
 封大经纪人	Manager Feng
 微博	Weibo
 林风	Lin Feng
-封逸	Feng Yi
+封逸	Feng Shang
 秦总	Boss Qin
 黑桃Z	Spade Z
 修二	Shuji
@@ -520,6 +521,7 @@
 薛瑶瑶	Xue Yaoyao
 秦漠	Qin Mo
 秦神	Almighty Qin
+云虎	Yunhu
 傅九	Fu Jiu
 漠哥	Brother Mo
 凌啸	Lin Xiao
@@ -576,14 +578,15 @@
 直播	live stream
 网络瘫痪	network paralysis
 全国联赛	National League
-刷本	instance, dungeon
+刷本=打地下城	instance, dungeon
+外挂	外挂,英文简称OGC
 马甲	game ID
 面基	Gay Meeting
 弟弟控	Little Brother Maniac
 私截	PM
 大姨妈	Great Auntie
 大神	the Almighty
-卡莉战队	Kali Team
+卡莉战队	Karli Team
 C区	Zone C
 官微	official Weibo
 么么哒	XOXO
@@ -613,28 +616,8 @@ A区	Zone A
 江城	Jiang City
 巫甄	Wu Zhen
 挑了下眉	pricked up
+星野一	Yoshino
 安影后	Movie Queen An
 赏你一拳消消乐	Awarding You a Slap of Pleasure
-湘南战队	Xiangnan Tteam
-湘南	Xiangnan
-纯色	Pure Color
-阿姨	Auntie
-妈	Mom	Way Fu Jiu call's He Honghua
-悍马	Hummer
-云虎	Yun Hu
-临城	Lin City
-星野一	Hoshino
-电竞	esports
-解说员	shoutcaster
-护城塔	defense tower
-走位	orbwalk
-殷山以北	North of Yin Mountain
-三千刀斩	Three Thousand Knife Cutting
-狗改不了吃屎	the fox may grow gray but never good
-韩素素	Han Susu
-江左	Jiang Zuo
-落地窗	floor-to-ceiling window
-安老爷子	Grandpa An
-肴佳	Yao Jia
-贺红花	He Honghua	Fu Jiu's mother
-李梦然	Li Mengran
+湘南战队	Xiang Nan Team
+湘南	Xiang Nan
