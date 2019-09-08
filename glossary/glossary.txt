@@ -528,7 +528,7 @@
 封尚	Feng Shang
 王磊	Wang Lei
 云中	Yun Zhong
-黑客	Hacker
+黑客	hacker
 国际刑警	Interpol
 陈晓东	Chen Xiaodong
 张宛如	Zhang Wanru
@@ -552,7 +552,7 @@
 九殿	Highness Jiu
 总裁	CEO
 九爷	Lord Jiu
-键盘客	Keyboard Warrior
+键盘客	keyboard warrior
 黑子	Blackie
 赏你一掌消消乐	Award You A Slap Of Pleasure
 封宝宝	Baby Feng
@@ -578,8 +578,8 @@
 直播	live stream
 网络瘫痪	network paralysis
 全国联赛	National League
-刷本=打地下城	instance, dungeon
-外挂	外挂,英文简称OGC
+刷本  dungeon raid
+外挂	cheat
 马甲	game ID
 面基	Gay Meeting
 弟弟控	Little Brother Maniac
@@ -612,7 +612,7 @@ A区	Zone A
 双杀	Double-kill
 刘宗明	Liu Zongming
 腹黑	black-bellied
-团灭	Team annihilated
+团灭	team annihilation
 江城	Jiang City
 巫甄	Wu Zhen
 挑了下眉	pricked up
